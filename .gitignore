@@ -1,3 +1,9 @@
+*.xlsx
+*.pdf
+*.zip
+*.txt
+*.docx
+
 # Prerequisites
 *.d
 
