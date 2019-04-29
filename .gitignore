@@ -3,6 +3,7 @@
 *.zip
 *.txt
 *.docx
+/.vscode
 
 # Prerequisites
 *.d
